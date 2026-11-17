@@ -1,6 +1,0 @@
-.git
-.github
-**/.DS_Store
-app/tmp
-app/**/__pycache__
-**/README.md
